@@ -1,4 +1,4 @@
-# Advertising Sales Prediction
+# Advertisement Sales Prediction
 
 ### Introduction
 The goal of this project is to develop predictive models for advertising sales based on different marketing channels such as TV, Radio, and Newspaper. The project involves data exploration, visualization, and building two regression models: Linear Regression and XGBoost. The predictive performance of these models is evaluated, and the better-performing model is saved for future use.
